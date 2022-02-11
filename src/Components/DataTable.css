@@ -1,0 +1,8 @@
+.data-table td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.data-table table {
+  margin-top: 50px;
+}
